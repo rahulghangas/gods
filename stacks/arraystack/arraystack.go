@@ -11,9 +11,10 @@ package arraystack
 
 import (
 	"fmt"
-	"github.com/emirpasic/gods/lists/arraylist"
-	"github.com/emirpasic/gods/stacks"
 	"strings"
+
+	"github.com/rahulghangas/gods/lists/arraylist"
+	"github.com/rahulghangas/gods/stacks"
 )
 
 func assertStackImplementation() {

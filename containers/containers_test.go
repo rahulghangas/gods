@@ -7,8 +7,9 @@
 package containers
 
 import (
-	"github.com/emirpasic/gods/utils"
 	"testing"
+
+	"github.com/rahulghangas/gods/utils"
 )
 
 // For testing purposes

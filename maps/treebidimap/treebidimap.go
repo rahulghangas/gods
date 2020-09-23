@@ -19,10 +19,11 @@ package treebidimap
 
 import (
 	"fmt"
-	"github.com/emirpasic/gods/maps"
-	"github.com/emirpasic/gods/trees/redblacktree"
-	"github.com/emirpasic/gods/utils"
 	"strings"
+
+	"github.com/rahulghangas/gods/maps"
+	"github.com/rahulghangas/gods/trees/redblacktree"
+	"github.com/rahulghangas/gods/utils"
 )
 
 func assertMapImplementation() {

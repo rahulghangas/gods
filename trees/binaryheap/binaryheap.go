@@ -13,10 +13,11 @@ package binaryheap
 
 import (
 	"fmt"
-	"github.com/emirpasic/gods/lists/arraylist"
-	"github.com/emirpasic/gods/trees"
-	"github.com/emirpasic/gods/utils"
 	"strings"
+
+	"github.com/rahulghangas/gods/lists/arraylist"
+	"github.com/rahulghangas/gods/trees"
+	"github.com/rahulghangas/gods/utils"
 )
 
 func assertTreeImplementation() {

@@ -11,10 +11,11 @@ package treeset
 
 import (
 	"fmt"
-	"github.com/emirpasic/gods/sets"
-	rbt "github.com/emirpasic/gods/trees/redblacktree"
-	"github.com/emirpasic/gods/utils"
 	"strings"
+
+	"github.com/rahulghangas/gods/sets"
+	rbt "github.com/rahulghangas/gods/trees/redblacktree"
+	"github.com/rahulghangas/gods/utils"
 )
 
 func assertSetImplementation() {
